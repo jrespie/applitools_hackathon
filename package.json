@@ -1,0 +1,16 @@
+{
+  "name": "applitools_hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./*Test*/*.js -t 300000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@applitools/eyes-webdriverio": "latest",
+    "mocha": "^7.2.0",
+    "webdriverio": "^5.22.4"
+  }
+}
