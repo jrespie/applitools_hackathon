@@ -41,7 +41,11 @@ describe('wdio5', function () {
         configuration.setTestName('Task 1');
 
         configuration.addBrowser(1200, 700, BrowserType.CHROME);
-
+        configuration.addBrowser(1200, 700, BrowserType.FIREFOX);
+        configuration.addBrowser(1200, 700, BrowserType.EDGE_CHROMIUM);
+        configuration.addBrowser(768, 700, BrowserType.CHROME);
+        configuration.addBrowser(768, 700, BrowserType.FIREFOX);
+        configuration.addBrowser(768, 700, BrowserType.EDGE_CHROMIUM);
         configuration.addDeviceEmulation(DeviceName.iPhone_X, ScreenOrientation.PORTRAIT);
 
         eyes.setConfiguration(configuration);
