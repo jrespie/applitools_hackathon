@@ -13,7 +13,9 @@ class HomePage extends BasePage {
     listviewIconLocator = '#I__tiviewlist__204';
     openFiltersIconLocator = '#ti-filter';
     filtersLabelLocator = '#SPAN____208';
-    productShortcutsLocator = '#UL____222';
+    productWishlistIconLocator = '#I__tiheart__225';
+    productCompareIconLocator = '#I__ticontrols__229'
+    productAddToCartIconLocator = '#I__tishopping__233'
 
     get searchBar() { return $(this.searchBarLocator) }
     get headerSubMenu() { return $(this.headerSubMenuLocator) }
@@ -23,7 +25,9 @@ class HomePage extends BasePage {
     get listViewIcon() { return $(this.listviewIconLocator) }
     get openFiltersIcon() { return $(this.openFiltersIconLocator) }
     get filtersLabel() { return $(this.filtersLabelLocator) }
-    get productShortcuts() { return $(this.productShortcutsLocator) }
+    get productWishlistIcon() { return $(this.productWishlistIconLocator) }
+    get productCompareIcon() { return $(this.productCompareIconLocator) }
+    get productAddToCartIcon() { return $(this.productAddToCartIconLocator) }
 
 }
 
