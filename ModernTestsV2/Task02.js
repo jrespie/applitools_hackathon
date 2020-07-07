@@ -53,8 +53,6 @@ describe('wdio5', function () {
         const filterToggle = await browser.$('#A__openfilter__207');
         await filterToggle.click();
 
-        //await browser.pause(10000);
-
         const blackColourFilterCheckmark = await browser.$('#LABEL__containerc__104');
         await blackColourFilterCheckmark.waitForClickable();
         await blackColourFilterCheckmark.click();
