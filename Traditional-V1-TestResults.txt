@@ -1,0 +1,114 @@
+"Task: 1, Test Name: search bar should be present in desktop view, DOM Id: #INPUTtext____42, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: search bar should be present in tablet view, DOM Id: #INPUTtext____42, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 3, Test Name: should open the details page for Appli Air x Night, DOM Id: #shoe_name, Browser: chrome, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 2, Test Name: should open the filter sidebar, DOM Id: #sidebar_filters, Browser: chrome, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 3, Test Name: should default to size small, DOM Id: #shoe_name, Browser: chrome, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 3, Test Name: should have a new price of $33.00, DOM Id: #new_price, Browser: chrome, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 2, Test Name: should filter for black shoes only, DOM Id: #LABEL__containerc__104, Browser: chrome, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 1, Test Name: search bar should not be present in mobile view, DOM Id: #INPUTtext____42, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: submenu should be present in desktop view, DOM Id: #A__showsubmen__23, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: submenu should not be present in tablet view, DOM Id: #A__showsubmen__23, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: submenu should not be present in mobile view, DOM Id: #A__showsubmen__23, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: sidebar filter should be present in desktop view, DOM Id: #sidebar_filters, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: sidebar filter should not be present in tablet view, DOM Id: #sidebar_filters, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: sidebar filter should not be present in mobile view, DOM Id: #sidebar_filters, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: wishlist icon should be present in desktop view, DOM Id: #A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: wishlist icon should not be present in tablet view, DOM Id: #A__wishlist__52, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: wishlist icon should not be present in mobile view, DOM Id: #A__wishlist__52, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: gridview icon should be present in desktop view, DOM Id: #I__tiviewgrid__202, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: gridview icon should not be present in tablet view, DOM Id: #I__tiviewgrid__202, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: gridview icon should not be present in mobile view, DOM Id: #I__tiviewgrid__202, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: listview icon should be present in desktop view, DOM Id: #I__tiviewlist__204, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: listview icon should not be present in tablet view, DOM Id: #I__tiviewlist__204, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: listview icon should not be present in mobile view, DOM Id: #I__tiviewlist__204, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: open filters icon should not be present in desktop view, DOM Id: #ti-filter, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: open filters icon should be present in tablet view, DOM Id: #ti-filter, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: open filters icon should be present in mobile view, DOM Id: #ti-filter, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: filters label should not be present in desktop view, DOM Id: #SPAN____208, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: filters label should be present in tablet view, DOM Id: #SPAN____208, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: listview icon should not be present in mobile view, DOM Id: #SPAN____208, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: product shortcuts should not be present in desktop view, DOM Id: #I__tiheart__225, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: product shortcuts should not be present in desktop view, DOM Id: #I__ticontrols__229, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: product shortcuts should not be present in desktop view, DOM Id: #I__tishopping__233, Browser: chrome, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in tablet view, DOM Id: #I__tiheart__225, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in tablet view, DOM Id: #I__ticontrols__229, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in tablet view, DOM Id: #I__tishopping__233, Browser: chrome, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in mobile view, DOM Id: #I__tiheart__225, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in mobile view, DOM Id: #I__ticontrols__229, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in mobile view, DOM Id: #I__tishopping__233, Browser: chrome, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: search bar should be present in desktop view, DOM Id: #INPUTtext____42, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: search bar should be present in tablet view, DOM Id: #INPUTtext____42, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: search bar should not be present in mobile view, DOM Id: #INPUTtext____42, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: submenu should be present in desktop view, DOM Id: #A__showsubmen__23, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: submenu should not be present in tablet view, DOM Id: #A__showsubmen__23, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: submenu should not be present in mobile view, DOM Id: #A__showsubmen__23, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: sidebar filter should be present in desktop view, DOM Id: #sidebar_filters, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: sidebar filter should not be present in tablet view, DOM Id: #sidebar_filters, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: sidebar filter should not be present in mobile view, DOM Id: #sidebar_filters, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: wishlist icon should be present in desktop view, DOM Id: #A__wishlist__52, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: wishlist icon should not be present in tablet view, DOM Id: #A__wishlist__52, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: wishlist icon should not be present in mobile view, DOM Id: #A__wishlist__52, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: gridview icon should be present in desktop view, DOM Id: #I__tiviewgrid__202, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: gridview icon should not be present in tablet view, DOM Id: #I__tiviewgrid__202, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: gridview icon should not be present in mobile view, DOM Id: #I__tiviewgrid__202, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: listview icon should be present in desktop view, DOM Id: #I__tiviewlist__204, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: listview icon should not be present in tablet view, DOM Id: #I__tiviewlist__204, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: listview icon should not be present in mobile view, DOM Id: #I__tiviewlist__204, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: open filters icon should not be present in desktop view, DOM Id: #ti-filter, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: open filters icon should be present in tablet view, DOM Id: #ti-filter, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: open filters icon should be present in mobile view, DOM Id: #ti-filter, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: filters label should not be present in desktop view, DOM Id: #SPAN____208, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: filters label should be present in tablet view, DOM Id: #SPAN____208, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: listview icon should not be present in mobile view, DOM Id: #SPAN____208, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: product shortcuts should not be present in desktop view, DOM Id: #I__tiheart__225, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: product shortcuts should not be present in desktop view, DOM Id: #I__ticontrols__229, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: product shortcuts should not be present in desktop view, DOM Id: #I__tishopping__233, Browser: firefox, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in tablet view, DOM Id: #I__tiheart__225, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in tablet view, DOM Id: #I__ticontrols__229, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in tablet view, DOM Id: #I__tishopping__233, Browser: firefox, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in mobile view, DOM Id: #I__tiheart__225, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in mobile view, DOM Id: #I__ticontrols__229, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in mobile view, DOM Id: #I__tishopping__233, Browser: firefox, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 2, Test Name: should open the filter sidebar, DOM Id: #sidebar_filters, Browser: firefox, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 2, Test Name: should filter for black shoes only, DOM Id: #LABEL__containerc__104, Browser: firefox, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 3, Test Name: should open the details page for Appli Air x Night, DOM Id: #shoe_name, Browser: firefox, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 3, Test Name: should default to size small, DOM Id: #shoe_name, Browser: firefox, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 3, Test Name: should have a new price of $33.00, DOM Id: #new_price, Browser: firefox, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 1, Test Name: search bar should be present in desktop view, DOM Id: #INPUTtext____42, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: search bar should be present in tablet view, DOM Id: #INPUTtext____42, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: search bar should not be present in mobile view, DOM Id: #INPUTtext____42, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: submenu should be present in desktop view, DOM Id: #A__showsubmen__23, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: submenu should not be present in tablet view, DOM Id: #A__showsubmen__23, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: submenu should not be present in mobile view, DOM Id: #A__showsubmen__23, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: sidebar filter should be present in desktop view, DOM Id: #sidebar_filters, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: sidebar filter should not be present in tablet view, DOM Id: #sidebar_filters, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: sidebar filter should not be present in mobile view, DOM Id: #sidebar_filters, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: wishlist icon should be present in desktop view, DOM Id: #A__wishlist__52, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: wishlist icon should not be present in tablet view, DOM Id: #A__wishlist__52, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: wishlist icon should not be present in mobile view, DOM Id: #A__wishlist__52, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: gridview icon should be present in desktop view, DOM Id: #I__tiviewgrid__202, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: gridview icon should not be present in tablet view, DOM Id: #I__tiviewgrid__202, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: gridview icon should not be present in mobile view, DOM Id: #I__tiviewgrid__202, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: listview icon should be present in desktop view, DOM Id: #I__tiviewlist__204, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: listview icon should not be present in tablet view, DOM Id: #I__tiviewlist__204, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: listview icon should not be present in mobile view, DOM Id: #I__tiviewlist__204, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: open filters icon should not be present in desktop view, DOM Id: #ti-filter, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: open filters icon should be present in tablet view, DOM Id: #ti-filter, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: open filters icon should be present in mobile view, DOM Id: #ti-filter, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: filters label should not be present in desktop view, DOM Id: #SPAN____208, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: filters label should be present in tablet view, DOM Id: #SPAN____208, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: listview icon should not be present in mobile view, DOM Id: #SPAN____208, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: product shortcuts should not be present in desktop view, DOM Id: #I__tiheart__225, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: product shortcuts should not be present in desktop view, DOM Id: #I__ticontrols__229, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: product shortcuts should not be present in desktop view, DOM Id: #I__tishopping__233, Browser: msedge, Viewport: 1200x700, Device: DESKTOP, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in tablet view, DOM Id: #I__tiheart__225, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in tablet view, DOM Id: #I__ticontrols__229, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in tablet view, DOM Id: #I__tishopping__233, Browser: msedge, Viewport: 768x700, Device: TABLET, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in mobile view, DOM Id: #I__tiheart__225, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in mobile view, DOM Id: #I__ticontrols__229, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 1, Test Name: product shortcuts should be present in mobile view, DOM Id: #I__tishopping__233, Browser: msedge, Viewport: 500x700, Device: MOBILE, Status: Pass
+"Task: 2, Test Name: should open the filter sidebar, DOM Id: #sidebar_filters, Browser: msedge, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 2, Test Name: should filter for black shoes only, DOM Id: #LABEL__containerc__104, Browser: msedge, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 3, Test Name: should open the details page for Appli Air x Night, DOM Id: #shoe_name, Browser: msedge, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 3, Test Name: should default to size small, DOM Id: #shoe_name, Browser: msedge, Viewport: 800x600, Device: TABLET, Status: Pass
+"Task: 3, Test Name: should have a new price of $33.00, DOM Id: #new_price, Browser: msedge, Viewport: 800x600, Device: TABLET, Status: Pass
