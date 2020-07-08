@@ -49,7 +49,7 @@ exports.config = {
     path: '/',
     capabilities: [
     {
-        maxInstances: 5,
+        maxInstances: 1,
         browserName: 'MicrosoftEdge'
     }],
     //
