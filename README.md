@@ -7,6 +7,7 @@ Install dependencies:
 
 ### Modern tests
 Before running, you will need to set APPLITOOLS_API_KEY as an environment variable
+
 To run modern tests, either
 > npm run modernTestV1
 
