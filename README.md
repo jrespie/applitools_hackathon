@@ -27,3 +27,5 @@ or
 or
 
 > npx wdio wdio.conf.edge.js (--port xxxx)
+
+Note that this will run _both_ V1 and V2 of the tests
